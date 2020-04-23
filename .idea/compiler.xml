@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="client-1" />
         <module name="server-git" />
+        <module name="server-native" />
         <module name="client-2" />
       </profile>
     </annotationProcessing>
@@ -23,6 +24,7 @@
       <module name="configuration-client" options="-parameters" />
       <module name="configuration-service" options="-parameters" />
       <module name="server-git" options="-parameters" />
+      <module name="server-native" options="-parameters" />
     </option>
   </component>
 </project>
