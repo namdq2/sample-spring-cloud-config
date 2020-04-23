@@ -11,8 +11,9 @@
 
 
     <modules>
-        <module>configuration-service</module>
-        <module>configuration-client</module>
+        <module>server-git</module>
+        <module>client-1</module>
+        <module>client-2</module>
     </modules>
 
 </project>
