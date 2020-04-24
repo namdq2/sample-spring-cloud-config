@@ -11,6 +11,7 @@
 
 
     <modules>
+        <module>server-jdbc</module>
         <module>server-vault</module>
         <module>server-native</module>
         <module>server-git</module>

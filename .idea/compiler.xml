@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="client-1" />
-        <module name="server-vault" />
-        <module name="server-git" />
         <module name="server-native" />
+        <module name="server-jdbc" />
         <module name="client-2" />
+        <module name="client-1" />
+        <module name="server-git" />
+        <module name="server-vault" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +26,7 @@
       <module name="configuration-client" options="-parameters" />
       <module name="configuration-service" options="-parameters" />
       <module name="server-git" options="-parameters" />
+      <module name="server-jdbc" options="-parameters" />
       <module name="server-native" options="-parameters" />
       <module name="server-vault" options="-parameters" />
     </option>
