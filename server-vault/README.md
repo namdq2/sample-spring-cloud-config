@@ -1,5 +1,7 @@
-#I. Starting vault server:
+# I. Starting vault server:
+
 Docs: https://learn.hashicorp.com/vault/?track=getting-started#getting-started
+
 Docker image: https://hub.docker.com/_/vault
 
 ## Step 1: Run Vault container:
