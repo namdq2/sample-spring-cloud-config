@@ -11,6 +11,7 @@
 
 
     <modules>
+        <module>server-vault</module>
         <module>server-native</module>
         <module>server-git</module>
         <module>client-1</module>
