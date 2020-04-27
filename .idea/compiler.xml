@@ -11,6 +11,7 @@
         <module name="client-2" />
         <module name="client-1" />
         <module name="server-git" />
+        <module name="server-redis" />
         <module name="server-vault" />
       </profile>
     </annotationProcessing>
@@ -28,6 +29,7 @@
       <module name="server-git" options="-parameters" />
       <module name="server-jdbc" options="-parameters" />
       <module name="server-native" options="-parameters" />
+      <module name="server-redis" options="-parameters" />
       <module name="server-vault" options="-parameters" />
     </option>
   </component>

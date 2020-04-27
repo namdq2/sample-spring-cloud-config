@@ -6,6 +6,7 @@
     <file url="file://$PROJECT_DIR$/server-git/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-native/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-vault/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-vault/src/main/resources" charset="UTF-8" />
   </component>
