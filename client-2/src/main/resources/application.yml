@@ -1,5 +1,5 @@
 server:
-  port: 8082
+  port: ${PORT}
 management:
   endpoints:
     web:
@@ -7,7 +7,7 @@ management:
         include: '*'
 spring:
   rabbitmq:
-    host: localhost
-    port: 5672
-    username: guest
-    password: guest
+    host: ${SPRING_RABBITMQ_HOST}
+    port: ${SPRING_RABBITMQ_PORT}
+    username: ${SPRING_RABBITMQ_USERNAME}
+    password: ${SPRING_RABBITMQ_PASSWORD}
